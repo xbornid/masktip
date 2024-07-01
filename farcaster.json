@@ -1,0 +1,6 @@
+{
+    "name": "Masks Tips & Data Frame",
+    "description": "A frame to display account balance, recent tips, and ranking from Masks API",
+    "entry_point": "masks_farcaster.py",
+    "refresh_rate": 60000
+}
